@@ -264,6 +264,7 @@ body {
 }
 
 .footer__logo {
+	flex: 0 0 auto;
 	width: calc(273rem / 16);
 	aspect-ratio: 4.4754098361;
 	overflow: hidden;
